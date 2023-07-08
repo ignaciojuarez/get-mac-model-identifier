@@ -1,4 +1,4 @@
-# get-mac-model-identifier
+# Get Mac Model Identifier (Swift)
 simple Swift function that returns the mac model identifier
 
 # Usage
