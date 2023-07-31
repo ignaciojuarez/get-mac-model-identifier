@@ -7,4 +7,4 @@
 Simple Swift function that returns your mac model identifier
 
 ## Usage
-`swift mac-info.swift`
+terminal `swift mac-info.swift`
