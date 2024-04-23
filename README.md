@@ -4,7 +4,7 @@
 
 [![Platforms - macOS 11+](https://img.shields.io/badge/platforms-macOS%2011+-lightgrey.svg?style=flat)](https://developer.apple.com/swift) ![Swift 5.3-5.8](https://img.shields.io/badge/Swift-5.3–5.8-orange.svg?style=flat) [![Xcode 13-14](https://img.shields.io/badge/Xcode-13–14-blue.svg?style=flat)](https://developer.apple.com/swift)
 
-Simple Swift function that returns your mac model identifier
+Get mac model identifier using swift and Xcode
 
 ## Usage
 terminal `swift mac-info.swift`
